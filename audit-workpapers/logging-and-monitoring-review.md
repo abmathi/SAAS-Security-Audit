@@ -24,13 +24,6 @@ Ensure security-relevant events are logged, monitored, and reviewed to support t
 
 ![Security Log Overview](../screenshots/step-03-security-log-overview.png)
 
-### Authentication Events
-
-![Authentication Events](../screenshots/step-03-authentication-events.png)
-
-### MFA Security Events
-
-![MFA Events](../screenshots/step-03-mfa-events.png)
 
 ## Review Activities Performed
 - Reviewed recent login activity
