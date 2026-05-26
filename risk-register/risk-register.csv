@@ -1,0 +1,7 @@
+Risk ID,Risk Description,Likelihood,Impact,Risk Level,Owner,Mitigation Status
+R-001,MFA not enforced for all users,Medium,High,High,IT,In Progress
+R-002,Limited centralized logging visibility,Medium,Medium,Medium,Security,Planned
+R-003,Inactive accounts may remain enabled,Low,High,Medium,IT,Planned
+R-004,Third-party SaaS vendors not formally reviewed,Medium,Medium,Medium,Operations,Planned
+R-005,No formal incident response tabletop exercises completed,Medium,High,High,Security,Open
+R-006,Cloud storage misconfiguration risk,Low,High,Medium,Engineering,Monitoring

@@ -1,0 +1,7 @@
+Vendor Name,Service Type,Criticality,Risk Level,Security Review Status,Notes
+GitHub,Source Code Hosting,High,High,Reviewed,Stores source code repositories
+AWS,Cloud Infrastructure,High,High,Reviewed,Primary hosting provider
+Google Workspace,Identity/Email,High,High,Reviewed,Authentication and email services
+Cloudflare,DNS/CDN/WAF,Medium,Medium,Reviewed,Traffic filtering and DNS
+Slack,Communication Platform,Medium,Medium,Pending,Internal communications
+OpenAI,AI API Provider,Medium,Medium,Pending,AI integration services

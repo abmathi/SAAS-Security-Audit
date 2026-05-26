@@ -1,0 +1,7 @@
+Asset Name,Type,Owner,Criticality,Contains Sensitive Data,Notes
+GitHub,SaaS Platform,Engineering,High,Yes,Source code repositories
+Google Workspace,Identity Provider,IT,High,Yes,Email and authentication
+AWS,Cloud Provider,Engineering,High,Yes,Cloud infrastructure hosting
+Cloudflare,Security/Networking,IT,Medium,No,DNS and CDN services
+Slack,Communication Platform,Operations,Medium,Yes,Internal communications
+Trello/Product Tool,SaaS Platform,Operations,Low,No,Task management
