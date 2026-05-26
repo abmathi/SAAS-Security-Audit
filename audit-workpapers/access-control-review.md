@@ -34,9 +34,6 @@ Ensure logical access to systems and SaaS platforms is restricted to authorized 
 
 ![Active Sessions](../screenshots/step-02-active-sessions.png)
 
-### Security Settings Review
-
-![Security Settings](../screenshots/step-02-security-settings.png)
 
 ## Findings
 No critical findings identified during the review.
