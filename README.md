@@ -56,7 +56,6 @@ Collected evidence demonstrating implementation of basic access security control
 
 ![Active Sessions](screenshots/step-02-active-sessions.png)
 
-![Security Settings](screenshots/step-02-security-settings.png)
 
 
 ## Step 3: Logging and Monitoring Review
@@ -74,10 +73,6 @@ Collected evidence demonstrating audit trail visibility and documented monitorin
 ### Screenshots
 
 ![Security Log Overview](screenshots/step-03-security-log-overview.png)
-
-![Authentication Events](screenshots/step-03-authentication-events.png)
-
-![MFA Events](screenshots/step-03-mfa-events.png)
 
 
 ## Step 4: Asset Inventory Review
@@ -180,7 +175,6 @@ Documented detection, triage, containment, and remediation activities to demonst
 
 ![Incident Tracking](screenshots/step-08-incident-tracking.png)
 
-![Incident Log Evidence](screenshots/step-08-incident-log-evidence.png)
 
 
 ## Step 9: Vendor Risk Management Review
